@@ -1,5 +1,4 @@
-<div class="relative -z-10 bg-[url('https://play.tailwindcss.com/img/beams.jpg')]"">
-    <div class="absolute inset-0 bg-[url('https://play.tailwindcss.com/img/grid.svg')] bg-center [mask-image:linear-gradient(180deg,white,rgba(255,255,255,0))]"></div>
+<div class="relative bg-[url('https://play.tailwindcss.com/img/beams.jpg')]"">
     <div class="h-[30rem] bg w-11/12 m-auto">
         <div class="flex h-full items-center">
              <div class="w-full lg:w-6/12">

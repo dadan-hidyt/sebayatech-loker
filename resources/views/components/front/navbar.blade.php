@@ -1,4 +1,4 @@
-<nav x-data="{ open: false }" @keydown.window.escape="open = false" class="bg-white shadow">
+<nav x-data="{ open: false }" @keydown.window.escape="open = false" class="bg-white sticky top-0 z-20 shadow">
     <div class="container px-6 mx-auto lg:px-8">
         <div class="flex items-center justify-between h-16">
             <div class="flex items-center justify-between flex-grow">
