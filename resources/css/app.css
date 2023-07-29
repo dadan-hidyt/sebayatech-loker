@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.stroke-text{
+    -webkit-text-stroke:1px rgb(148, 148, 148);
+    -webkit-text-fill-color:transparent;
+  }
